@@ -1,0 +1,12 @@
+{
+  "name": "dreamhost-template",
+  "version": "0.0.0",
+  "description": "Syntax Highlighting for DreamHost Templates",
+  "keywords": [],
+  "repository": "https://github.com/mattfelten/dreamhost-template",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
