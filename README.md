@@ -1,6 +1,7 @@
 # atom-dreamhost-template-grammar
 
 Atom language grammar for DreamHost template files - HTML (DreamHost)
+
 Duplicated and adapted from https://github.com/jkeroes/dreamhost-template
 
 ### Automated installation
